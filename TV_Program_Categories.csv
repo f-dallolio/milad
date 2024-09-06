@@ -1,0 +1,42 @@
+TVProgTypeCode,TVProgTypeDesc,TVProgCat,TVProgCatID
+A,ADVENTURE,Entertainment,ENT
+AC,"AWARD CEREMONIES, PAGEANTS",Special Programming,SPC
+AP,AUDIENCE PARTICIPATION,Entertainment,ENT
+C,CHILD MULTI-WEEKLY,Children's Programming,CHD
+CA,CHILD DAY ANIMATION,Children's Programming,CHD
+CC,"CONVERSATIONS, COLLOQUIES",Information and Education,INF
+CE,CHILD EVENING,Children's Programming,CHD
+CL,CHILD DAY-LIVE,Children's Programming,CHD
+CM,CONCERT MUSIC,Entertainment,ENT
+CN,"CHILD NEWS, INFORMATION",Children's Programming,CHD
+CS,SITUATION COMEDY,Entertainment,ENT
+CV,COMEDY VARIETY,Entertainment,ENT
+D,DEVOTIONAL,Religious,REL
+DD,DAYTIME DRAMA,Entertainment,ENT
+DN,"DOCUMENTARY, NEWS",Information and Education,INF
+DO,"DOCUMENTARY, GENERAL",Information and Education,INF
+EA,EVENING ANIMATION,Entertainment,ENT
+EW,WESTERN DRAMA,Entertainment,ENT
+FF,FEATURE FILM,Special Programming,SPC
+FV,FORMAT VARIES,Special Programming,SPC
+GD,GENERAL DRAMA,Entertainment,ENT
+GV,GENERAL VARIETY,Entertainment,ENT
+IA,"INSTRUCTIONS, ADVICE",Information and Education,INF
+MD,MUSICAL DRAMA,Entertainment,ENT
+N,NEWS,Information and Education,INF
+OP,OFFICIAL POLICE,Entertainment,ENT
+P,POLITICAL,Information and Education,INF
+PC,POPULAR MUSIC-CONTEMPORARY,Entertainment,ENT
+PD,PRIVATE DETECTIVE,Entertainment,ENT
+PP,PAID PROGRAMMING,Miscellaneous,MISC
+PS,POPULAR MUSIC-STANDARD,Entertainment,ENT
+PV,PARTICIPATION VARIETY,Entertainment,ENT
+QG,QUIZ-GIVE AWAY,Entertainment,ENT
+QP,QUIZ-PANEL,Entertainment,ENT
+SA,SPORTS ANTHOLOGY,Sports,SPR
+SC,SPORTS COMMENTARY,Sports,SPR
+SE,SPORTS EVENT,Sports,SPR
+SF,SCIENCE FICTION,Entertainment,ENT
+SM,"SUSPENSE, MYSTERY",Entertainment,ENT
+SN,SPORTS NEWS,Sports,SPR
+U,UNCLASSIFIED,Miscellaneous,MISC
